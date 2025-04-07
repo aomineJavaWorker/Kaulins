@@ -17,7 +17,7 @@ public class Kaulins {
 		}while(reizes<1);
 		for(int i=0; i<reizes;i++) {
 			skaitlis = rand.nextInt(6)+1;
-			System.out.println("Uzkrita skaitlis: "+skaitlis);
+			System.out.println("Uzkrita skaitlis!: "+skaitlis);
 			skaitli.add(skaitlis);
 			
 		}
