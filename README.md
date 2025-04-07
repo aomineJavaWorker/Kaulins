@@ -14,3 +14,5 @@
 - [ ] Programmēt
 
 ![Metamamā kauliņa attēls](https://tse1.mm.bing.net/th/id/OIP.-r3WSXjSNRJcDmtTz21r7AHaHw?rs=1&pid=ImgDetMain)  
+
+#### A
